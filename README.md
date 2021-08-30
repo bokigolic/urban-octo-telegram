@@ -1,16 +1,13 @@
-# About site
+# About project
 
-## SEO Management
-SEO allows you to increase your visibility and find the right customers for your business.
+## Semantic HTML elements
+The website uses semnatic HTML elements
 
-## Online Reputation Management
-Online Reputation Management gives you the control over what potential customers see when they search for your business.
+## CSS coments
+CSS was commented
 
-## Social Media Marketing
-Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
+Website URL: https://bokigolic.github.io/urban-octo-telegram/
 
-## Lead Generation
-
-## Brand Awareness
-
-## Cost Management
+## Live website preview
+assets\images\LiveWebsiteZoommedOut.PNG
+assets\images\LiveWebsite.PNG
