@@ -5,8 +5,8 @@ The website uses semnatic HTML elements
 
 ## CSS coments
 CSS was commented
+To view the live site, please visit [*this link*](https://bokigolic.github.io/urban-octo-telegram/)
 
-Website URL: https://bokigolic.github.io/urban-octo-telegram/
 
 ## Live website preview
 ![Live website at 100% zoom](/assets/images/LiveWebsite.PNG "Live website at 100% zoom")
